@@ -41,10 +41,10 @@ public class JL_CH_1_PS {
 
 
         // calculate CGPA for 3 subjects
-        int num1 =32;
-        int num2=43;
-        int num3=89;
-        System.out.println((num1+num2+num3)/30);
+        int num1n =32;
+        int num2n=43;
+        int num3n=89;
+        System.out.println((num1n+num2n+num3n)/30);
 
     }
 }
